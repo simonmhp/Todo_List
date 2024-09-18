@@ -1,10 +1,15 @@
-# todo_list
+# Todo_list
 
-A new Flutter project.
+A new Flutter Website Based project.
+The project uses Cubit State Managemant.
+The project motive is is to demonstrate the storage and display of data using State Management.
+> The project does not have inbuilt memory confrigured, so restart will wipe the data clean.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+- plug and play execution.
+- run the code in Browser as device (recommended Chorme).
 
 A few resources to get you started if this is your first Flutter project:
 
